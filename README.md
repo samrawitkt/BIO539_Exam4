@@ -1,7 +1,7 @@
 # BIO539_Exam4
 ## Instruction steps
 
-This repository represnts the steps followed to write the linguistic complexity of the string(sequence).
+This repository represents the steps followed to write the linguistic complexity of the string(sequence).
 
 **1 step,** Create a function that calculates observed k-mers (unique k_mers) taking read(string) and K(int) values as an argument.\
 **2 step,** Create a function calculates all the possible k-mers also taking read and K values as an argument.\
