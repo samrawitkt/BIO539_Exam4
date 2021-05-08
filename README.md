@@ -10,4 +10,4 @@ This repository represnts the steps followed to write the linguistic complexity 
 **5 step** Create a main function that reads any string given by user and calculates the lingustic complexity.\
 **6 step** Create separate python test script to test the written python script.\
 
-*Note each of the functions run and give the right output. However, test script gives me error message that I could't able to complete test.
+**Note** each of the functions run and give the right output. However, test script gives me error message that I could't able to complete test.
