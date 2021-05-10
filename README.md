@@ -21,6 +21,6 @@ The steps followed to write the linguistic complexity of the string(sequence) af
 
 ## Testing
 
-**1,** created a separate testing python script using the same python script name adding test infront(test_bio_Exam4.py).
-**2,** Import all data from the main python script (bio_Exam4.py).
+**1,** created a separate testing python script using the same python script name adding test infront(test_bio_Exam4.py).\
+**2,** Import all the data from the main python script (bio_Exam4.py).\
 **3,** Call each funtion at a time provide one kmer value and a sequence from our string.csv excel file to assert the actual result with expected result.
